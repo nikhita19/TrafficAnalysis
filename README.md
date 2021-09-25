@@ -30,5 +30,5 @@ This repo contains 3 main folders:
 ## References
 
 
-## LICENSE
+## License
 
