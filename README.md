@@ -1,7 +1,7 @@
 # TrafficAnalysis 
 Fully automated camera calibration using 3 orthogonal vanishing points and scene scale from 3-D bounding boxes from detected vehicles (Faster-RCNN) to estimate speed of vehicles.
 
-# Getting Started 
+## Getting Started 
 This repo contains 3 main folders: 
 - `Data` : This contains images and videos used during this project. 
 - `Notebooks` : This contains different notebooks and python scripts used to create 3d bounding box, estimated vanishing points and estimate vehicle speed after faster-rcnn detection and kalman filter vehicle tracking.
@@ -18,17 +18,17 @@ This repo contains 3 main folders:
 
 
 
-# Requirements/Installations
+## Requirements/Installations
 
 
-# Steps
+## Steps
 
 
-# Issues
+## Issues
 
 
-# References
+## References
 
 
-# LICENSE
+## LICENSE
 
